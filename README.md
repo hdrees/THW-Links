@@ -28,6 +28,11 @@
 * [Flyer des BBK](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Empfehlungen_Takt_Zeichen_im_BevSch.html)
 * [taktische Zeichen als Magnet und Download](https://www.thw-magnete.de)
 
+## Geodaten
+* [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
+* [Geoportal NRW](https://www.geoportal.nrw/)
+* https://www.flurkarte-nrw.de/
+
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
 * [Interaktives Whiteboard](https://openboard.ch/index.de.html)
