@@ -38,3 +38,6 @@
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
 * [Interaktives Whiteboard](https://openboard.ch/index.de.html)
 
+## Sonstiges
+* [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
+
