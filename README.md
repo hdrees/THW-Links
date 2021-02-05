@@ -33,6 +33,7 @@
 * [Geoportal NRW](https://www.geoportal.nrw/)
 * https://www.flurkarte-nrw.de/
 * https://geoservice.kreis-unna.de/
+* https://www.uvo.nrw.de/uvo.html?lang=de
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
