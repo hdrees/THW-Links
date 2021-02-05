@@ -34,6 +34,8 @@
 * https://www.flurkarte-nrw.de/
 * https://geoservice.kreis-unna.de/
 * https://www.uvo.nrw.de/uvo.html?lang=de
+* https://maps.regioplaner.de/
+* https://www.geoportal.nrw
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
