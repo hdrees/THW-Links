@@ -43,4 +43,5 @@
 
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
+* [THW-Dienststellen als JSON](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen)
 
