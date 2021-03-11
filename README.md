@@ -31,6 +31,8 @@
 ## taktische Zeichen
 * [Flyer des BBK](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Empfehlungen_Takt_Zeichen_im_BevSch.html)
 * [taktische Zeichen als Magnet und Download](https://www.thw-magnete.de)
+* [Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken](https://github.com/jonas-koeritz/Taktische-Zeichen)
+* [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/)
 
 ## Geodaten
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
