@@ -21,6 +21,7 @@
 ## Nützliches
 * [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachgruppe-fuehrungkommunikation/digitalfunk/)
 * [Corona-Fallzahlen vom RB Dortmund (App vom THW OV Bornheim)](https://corona.thw-bornheim.de/nw/dortmund)
+* [THW-Linkverzeichnis auf GitLab](https://gitlab.com/tast-it/thw-projekte)
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/webanwendungen/hochwasseratlas.html)
@@ -40,6 +41,8 @@
 * https://maps.regioplaner.de/
 * https://www.geoportal.nrw
 * http://tools.geofabrik.de/
+* [NRW Geodaten als PDF-Download](https://www.opengeodata.nrw.de/produkte/geobasis/tk/)
+* [python-Downloader für NRW-Geodaten)(https://github.com/dmth/top_downloader)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
