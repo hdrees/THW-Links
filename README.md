@@ -44,7 +44,7 @@
 * https://www.geoportal.nrw
 * http://tools.geofabrik.de/
 * [NRW Geodaten als PDF-Download](https://www.opengeodata.nrw.de/produkte/geobasis/tk/)
-* [python-Downloader für NRW-Geodaten)(https://github.com/dmth/top_downloader)
+* [python-Downloader für NRW-Geodaten](https://github.com/dmth/top_downloader)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
@@ -53,5 +53,7 @@
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
 * [THW-Dienststellen als JSON](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen)
+* [THW-Dienststellen als JSON extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW Adressen mit Geoinformationen](https://www.thw.de/SharedDocs/Downloads/DE/Open-Data/thw_adressen_mit_geoinformationen_csv.html)
+* [thw-adressbuch](https://thw-adressbuch.meldestein.de/#/)
 
