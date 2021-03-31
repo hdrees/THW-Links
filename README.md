@@ -12,6 +12,7 @@
 * [THW.de](http://www.thw.de)
 * [THW-Ausbildungszentrum](https://www.thw-ausbildungszentrum.de/)
 * [THW-Extranet](https://extranet.thw.de)
+* [THW-Ilias](https://extranet.thw.de/SiteGlobals/Functions/Forum/THW-Extranet/DE/SSO_Redirect.html?type=ilias)
 * [Hermine Messanger](https://app.thw-messenger.de)
 
 ## THW-Ausbildung
