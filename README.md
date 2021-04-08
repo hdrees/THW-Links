@@ -50,6 +50,8 @@
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
 * [Interaktives Whiteboard](https://openboard.ch/index.de.html)
+* [Audience Response Systems ARSnova](https://arsnova.eu)
+* [PINGO – Peer Instruction](https://trypingo.com/de/)
 
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
