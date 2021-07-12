@@ -54,6 +54,7 @@
 * [Audience Response Systems ARSnova](https://arsnova.eu)
 * [PINGO – Peer Instruction](https://trypingo.com/de/)
 * [Online-Abstimmung](https://votesup.eu)
+* [Sichere Videokonferenz](https://sichere-videokonferenz.de/)
 
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
