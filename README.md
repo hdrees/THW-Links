@@ -47,6 +47,9 @@
 * http://tools.geofabrik.de/
 * [NRW Geodaten als PDF-Download](https://www.opengeodata.nrw.de/produkte/geobasis/tk/)
 * [python-Downloader für NRW-Geodaten](https://github.com/dmth/top_downloader)
+* [NRW Umweltdaten vor Ort](https://www.uvo.nrw.de/)
+* [ELWAS Web NRW](https://www.elwasweb.nrw.de)
+* https://www.opengeodata.nrw.de/produkte/geobasis/
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
