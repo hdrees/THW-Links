@@ -34,6 +34,7 @@
 * [taktische Zeichen als Magnet und Download](https://www.thw-magnete.de)
 * [Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken](https://github.com/jonas-koeritz/Taktische-Zeichen)
 * [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/)
+* https://next.taktische-zeichen.org/
 
 ## Geodaten
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
