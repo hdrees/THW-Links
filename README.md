@@ -51,6 +51,7 @@
 * [NRW Umweltdaten vor Ort](https://www.uvo.nrw.de/)
 * [ELWAS Web NRW](https://www.elwasweb.nrw.de)
 * https://www.opengeodata.nrw.de/produkte/geobasis/
+* [http://www.klimaanpassung-karte.nrw.de/](Fachinformationssystem Klimaanpassung)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
