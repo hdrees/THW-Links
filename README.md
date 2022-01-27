@@ -35,8 +35,9 @@
 * [Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken](https://github.com/jonas-koeritz/Taktische-Zeichen)
 * [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/)
 * https://next.taktische-zeichen.org/
+* [https://github.com/MartinBoehmer/Taktische-Zeichen-drawio](Taktische-Zeichen-drawio)
 
-## Geodaten
+## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
 * [Geoportal NRW](https://www.geoportal.nrw/)
 * [Deutschland-Karten von Bundesamt für Kartographie und Geodäsie](https://map-on-demand.bkg.bund.de/mod_od/)
@@ -52,6 +53,9 @@
 * [ELWAS Web NRW](https://www.elwasweb.nrw.de)
 * https://www.opengeodata.nrw.de/produkte/geobasis/
 * [Fachinformationssystem Klimaanpassung](http://www.klimaanpassung-karte.nrw.de/)
+* [Die Region auf Karte](http://www.auf-karte.de/start.html)
+* https://luftbilder.geoportal.ruhr/
+* https://www.3d.ruhr/
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
