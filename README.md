@@ -36,6 +36,7 @@
 * [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/)
 * https://next.taktische-zeichen.org/
 * [https://github.com/MartinBoehmer/Taktische-Zeichen-drawio](Taktische-Zeichen-drawio)
+* https://thw-magnete.de/
 
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
