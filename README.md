@@ -71,5 +71,6 @@
 * [THW-Dienststellen als JSON](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen)
 * [THW-Dienststellen als JSON extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW Adressen mit Geoinformationen](https://www.thw.de/SharedDocs/Downloads/DE/Open-Data/thw_adressen_mit_geoinformationen_csv.html)
-* [thw-adressbuch](https://thw-adressbuch.meldestein.de/#/)
+* [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
+* [GitLab: Scraper für THW-Adressen von THW.de](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 
