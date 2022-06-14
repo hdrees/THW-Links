@@ -57,6 +57,7 @@
 * [Die Region auf Karte](http://www.auf-karte.de/start.html)
 * https://luftbilder.geoportal.ruhr/
 * https://www.3d.ruhr/
+* [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/geodaten-anwendungen/krisigeo_nw/)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
