@@ -58,6 +58,9 @@
 * https://luftbilder.geoportal.ruhr/
 * https://www.3d.ruhr/
 * [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/geodaten-anwendungen/krisigeo_nw/)
+* http://www.geoservice.kreis-unna.de/
+* https://kreis-unna.virtualcitymap.de/
+* https://open.nrw/
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
