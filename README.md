@@ -82,5 +82,4 @@
 * [THW Adressen mit Geoinformationen](https://www.thw.de/SharedDocs/Downloads/DE/Open-Data/thw_adressen_mit_geoinformationen_csv.html)
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
 * [GitLab: Scraper für THW-Adressen von THW.de](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
-* https://gitlab.com/tast-it/thw-projekte
-
+* [THW-Link-Sammlung](https://gitlab.com/tast-it/thw-projekte)
