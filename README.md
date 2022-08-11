@@ -62,6 +62,10 @@
 * https://kreis-unna.virtualcitymap.de/
 * https://open.nrw/
 * [KWF-Rettungspunkte](https://lizmap.rettungspunkte-forst.de/index.php)
+* [Einsatzkarte](https://einsatzkarte.de/)
+* [Lagekarte](https://www.lagekarte.info/)
+* [Mobile Lagekarte](https://www.mobile-lagekarte.de/)
+* [Lagekarte-Online](https://lagekarte.online/#/)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
