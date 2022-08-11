@@ -61,6 +61,7 @@
 * http://www.geoservice.kreis-unna.de/
 * https://kreis-unna.virtualcitymap.de/
 * https://open.nrw/
+* [KWF-Rettungspunkte](https://lizmap.rettungspunkte-forst.de/index.php)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
