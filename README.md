@@ -37,6 +37,8 @@
 * https://next.taktische-zeichen.org/
 * [https://github.com/MartinBoehmer/Taktische-Zeichen-drawio](Taktische-Zeichen-drawio)
 * https://thw-magnete.de/
+* [Taktische Zeichen für Hilfsorganistaionen als Java Bibliothek(https://github.com/liturner/Taktische-Zeichen-Java)
+
 
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
