@@ -85,3 +85,7 @@
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
 * [GitLab: Scraper für THW-Adressen von THW.de](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW-Link-Sammlung](https://gitlab.com/tast-it/thw-projekte)
+
+## Hermine API
+* https://github.com/lksmrl/hermine-stashcat-ps
+* https://gitlab.com/aeberhardt/stashcat-api-client
