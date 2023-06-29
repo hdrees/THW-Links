@@ -14,6 +14,7 @@
 * [THW-Extranet](https://extranet.thw.de)
 * [THW-Ilias](https://extranet.thw.de/SiteGlobals/Functions/Forum/THW-Extranet/DE/SSO_Redirect.html?type=ilias)
 * [Hermine Messanger](https://app.thw-messenger.de)
+* [THW-Forschung.de](http://www.thw-forschung.de)
 
 ## THW-Ausbildung
 * [THW-Theorieprüfung](https://www.thw-theorie.de/)
