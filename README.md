@@ -84,8 +84,10 @@
 * [THW-Dienststellen als JSON extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW Adressen mit Geoinformationen](https://www.thw.de/SharedDocs/Downloads/DE/Open-Data/thw_adressen_mit_geoinformationen_csv.html)
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
+* [THW-Dienststellen auf OpenStreetMap](https://thw.blafusel.de/)
 * [GitLab: Scraper für THW-Adressen von THW.de](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW-Link-Sammlung](https://gitlab.com/tast-it/thw-projekte)
+* [synchronisierung zwischen Stein.APP und Divera 24/7](https://github.com/oscarminus/steinapi/)
 
 ## Hermine API
 * https://github.com/lksmrl/hermine-stashcat-ps
