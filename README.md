@@ -90,6 +90,7 @@
 * [GitLab: Scraper für THW-Adressen von THW.de](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW-Link-Sammlung](https://gitlab.com/tast-it/thw-projekte)
 * [synchronisierung zwischen Stein.APP und Divera 24/7](https://github.com/oscarminus/steinapi/)
+* [THW Inventory](https://github.com/mziech/thw-inventory)
 
 ## Hermine API
 * https://github.com/lksmrl/hermine-stashcat-ps
