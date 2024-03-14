@@ -72,7 +72,8 @@
 * [Mobile Lagekarte](https://www.mobile-lagekarte.de/)
 * [Lagekarte-Online](https://lagekarte.online/#/)
 * [Karte aller THW Ortsverbände](https://thw.blafusel.de/)
-* [Geodaten-Sammlung](https://gitlab.com/hburkamp/mhp_tools/geodaten)  
+* [Geodaten-Sammlung](https://gitlab.com/hburkamp/mhp_tools/geodaten)
+* [Pegelonline](https://pegelonline.wsv.de/)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
