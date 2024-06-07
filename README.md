@@ -24,11 +24,13 @@
 ## Nützliches
 * [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachzug-fuehrungkommunikation/digitalfunk)
 * [THW-Linkverzeichnis auf GitLab](https://gitlab.com/tast-it/thw-projekte)
+* [THWiki](https://thwiki.org/)
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
 * [Hochwasserzentrale](www.hochwasserzentralen.de)
 * [Hochwasserzentrale (mobil)](https://www.mhwz.de/)
+* [THW-Pegel](https://thw-pegel.de/)
 
 ## taktische Zeichen
 * [Flyer des BBK](https://lernplattform-babz-bund.de/ilias.php?baseClass=ilrepositorygui&ref_id=109540)
