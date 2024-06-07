@@ -22,17 +22,16 @@
 * [THW-Theorieprüfung-App](http://rwolke.github.io/thw-theorie/)
 
 ## Nützliches
-* [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachgruppe-fuehrungkommunikation/digitalfunk/)
-* [Corona-Fallzahlen vom RB Dortmund (App vom THW OV Bornheim)](https://corona.thw-bornheim.de/nw/dortmund)
+* [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachzug-fuehrungkommunikation/digitalfunk)
 * [THW-Linkverzeichnis auf GitLab](https://gitlab.com/tast-it/thw-projekte)
 
 ## Hochwasser
-* [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/webanwendungen/hochwasseratlas.html)
+* [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
 * [Hochwasserzentrale](www.hochwasserzentralen.de)
 * [Hochwasserzentrale (mobil)](https://www.mhwz.de/)
 
 ## taktische Zeichen
-* [Flyer des BBK](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Empfehlungen_Takt_Zeichen_im_BevSch.html)
+* [Flyer des BBK](https://lernplattform-babz-bund.de/ilias.php?baseClass=ilrepositorygui&ref_id=109540)
 * [taktische Zeichen als Magnet und Download](https://www.thw-magnete.de)
 * [Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken](https://github.com/jonas-koeritz/Taktische-Zeichen)
 * [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/)
@@ -62,7 +61,7 @@
 * [Die Region auf Karte](http://www.auf-karte.de/start.html)
 * https://luftbilder.geoportal.ruhr/
 * https://www.3d.ruhr/
-* [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/geodaten-anwendungen/krisigeo_nw/)
+* [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/geobasis-nrw/geodaten-anwendungen/krisensichere-geobasisdaten-bereitstellung-nw)
 * http://www.geoservice.kreis-unna.de/
 * https://kreis-unna.virtualcitymap.de/
 * https://open.nrw/
@@ -87,7 +86,6 @@
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
 * [THW-Dienststellen als JSON](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen)
 * [THW-Dienststellen als JSON extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
-* [THW Adressen mit Geoinformationen](https://www.thw.de/SharedDocs/Downloads/DE/Open-Data/thw_adressen_mit_geoinformationen_csv.html)
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
 * [THW-Dienststellen auf OpenStreetMap](https://thw.blafusel.de/)
 * [GitLab: Scraper für THW-Adressen von THW.de](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
