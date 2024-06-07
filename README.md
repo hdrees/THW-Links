@@ -75,6 +75,8 @@
 * [Karte aller THW Ortsverbände](https://thw.blafusel.de/)
 * [Geodaten-Sammlung](https://gitlab.com/hburkamp/mhp_tools/geodaten)
 * [Pegelonline](https://pegelonline.wsv.de/)
+* [Online Koordinaten Umrechner](https://www.koordinaten-umrechner.de/)
+* [Online Koordinaten Umrechner](https://thwms.de/_v2/content/koordinatenrechner3/koordinatenrechner.php)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
