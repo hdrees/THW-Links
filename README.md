@@ -31,6 +31,7 @@
 * [Hochwasserzentrale](www.hochwasserzentralen.de)
 * [Hochwasserzentrale (mobil)](https://www.mhwz.de/)
 * [THW-Pegel](https://thw-pegel.de/)
+* [Hochwassergefahren- und Hochwasserrisikokarten in Deutschland](https://geoportal.bafg.de/karten/HWRM_Aktuell/?tabs=on#)
 
 ## taktische Zeichen
 * [Flyer des BBK](https://lernplattform-babz-bund.de/ilias.php?baseClass=ilrepositorygui&ref_id=109540)
