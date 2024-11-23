@@ -54,7 +54,7 @@
 * https://geoservice.kreis-unna.de/
 * https://www.uvo.nrw.de/uvo.html?lang=de
 * https://maps.regioplaner.de/
-* https://www.geoportal.nrw
+* https://www.geoportal.de
 * http://tools.geofabrik.de/
 * [NRW Geodaten als PDF-Download](https://www.opengeodata.nrw.de/produkte/geobasis/tk/)
 * [python-Downloader für NRW-Geodaten](https://github.com/dmth/top_downloader)
