@@ -19,7 +19,7 @@ jobs:
     - name: Install Awesome Bot
       run: gem install awesome_bot
     - name: Run Awesome Bot
-      run: awesome_bot README.md --request-delay 1 --allow-redirect
+      run: awesome_bot README.md --allow-ssl --request-delay 1 --allow-redirect
     - uses: actions/upload-artifact@v4
       if: failure()
       with:
