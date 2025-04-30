@@ -16,7 +16,12 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.6'
-    - name: Checks
-      run: |
-        gem install awesome_bot
-        awesome_bot README.md --allow-ssl --allow-redirect
+    - name: Install Awesome Bot
+      run: gem install awesome_bot
+    - name: Run Awesome Bot
+      run: awesome_bot README.md --request-delay 1 --allow-redirect
+    - uses: actions/upload-artifact@v4
+      if: failure()
+      with:
+        name: ab-results
+        path: ab-results-README.md-filtered.json
