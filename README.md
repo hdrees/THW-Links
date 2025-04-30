@@ -46,8 +46,6 @@
 * [Taktische Zeichen für Hilfsorganisationen als Java Bibliothek](https://github.com/liturner/Taktische-Zeichen-Java)
 * ["Taktische Zeichen" für Beleuchtung](https://gallery.proficad.com/schaltzeichen/hausinstallationen/leuchten)
 * [Taktische Zeichen Generator](https://gleaming-macaron-e718ad.netlify.app/)
-* https://www.mobile-lagekarte.de/
-* [https://github.com/jonas-koeritz/Taktische-Zeichen](Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken.)
 
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
@@ -77,7 +75,6 @@
 * [Lagekarte](https://www.lagekarte.info/)
 * [Mobile Lagekarte](https://www.mobile-lagekarte.de/)
 * [Lagekarte-Online](https://lagekarte.online/#/)
-* [Karte aller THW Ortsverbände](https://thw.blafusel.de/)
 * [Geodaten-Sammlung](https://gitlab.com/hburkamp/mhp_tools/geodaten)
 * [Pegelonline](https://pegelonline.wsv.de/)
 * [Online Koordinaten Umrechner](https://www.koordinaten-umrechner.de/)
@@ -97,8 +94,6 @@
 * [THW-Dienststellen als JSON extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
 * [THW-Dienststellen auf OpenStreetMap](https://thw.blafusel.de/)
-* [GitLab: Scraper für THW-Adressen von THW.de](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
-* [THW-Link-Sammlung](https://gitlab.com/tast-it/thw-projekte)
 * [synchronisierung zwischen Stein.APP und Divera 24/7](https://github.com/oscarminus/steinapi/)
 * [THW Inventory](https://github.com/mziech/thw-inventory)
 
