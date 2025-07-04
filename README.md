@@ -96,6 +96,7 @@
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
 * [THW-Dienststellen auf OpenStreetMap](https://thw.blafusel.de/)
 * [synchronisierung zwischen Stein.APP und Divera 24/7](https://github.com/oscarminus/steinapi/)
+* [Dokumentation stein.app](https://stein.app/api/api/doc/intro)
 * [THW Inventory](https://github.com/mziech/thw-inventory)
 
 ## Hermine API
