@@ -21,6 +21,7 @@
 * [THW-Theorieprüfung](https://www.thw-theorie.de/)
 * [THW-Theorieprüfung-App](http://rwolke.github.io/thw-theorie/)
 * [Sprechfunk Übungsgenerator](https://github.com/wattnpapa/sprechfunk-uebung)
+* [OSI26 - das Live-Online-Event](https://thw-unterweisung.de/)
 
 ## Nützliches
 * [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachzug-fuehrungkommunikation/digitalfunk)
