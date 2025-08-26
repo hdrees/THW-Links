@@ -101,6 +101,7 @@
 * [Dokumentation stein.app](https://stein.app/api/api/doc/intro)
 * [THW Inventory](https://github.com/mziech/thw-inventory)
 * [Rechenscheibe Deicherhöhung](https://webapps.iwa.de/preview/?id=35bea0c68e474904352b539d751d2483689edade9a25e&lang=de)
+* [Spiel "Trainings-/Übungslage - Brand Newateak"](https://shop.zfbs.info/products/trainings-ubungslage-brand-newateak?variant=55154459443525)
 
 ## Hermine API
 * https://github.com/lksmrl/hermine-stashcat-ps
