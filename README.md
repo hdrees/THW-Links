@@ -93,6 +93,9 @@
 * [Online-Abstimmung](https://votesup.eu)
 * [Sichere Videokonferenz](https://sichere-videokonferenz.de/)
 
+  ## Software
+  * [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
+
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
 * [THW-Dienststellen als JSON](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen)
