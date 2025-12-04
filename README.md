@@ -29,6 +29,7 @@
 * [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachzug-fuehrungkommunikation/digitalfunk)
 * [THW-Linkverzeichnis auf GitLab](https://gitlab.com/tast-it/thw-projekte)
 * [THWiki](https://thwiki.org/)
+* [FuKS - Klarheit im Einsatz - Von der Lage zum Auftrag](https://demo.fuks.app/)
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
