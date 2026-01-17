@@ -31,7 +31,17 @@
 * [THW-Linkverzeichnis auf GitLab](https://gitlab.com/tast-it/thw-projekte)
 * [THWiki](https://thwiki.org/)
 * [FuKS - Klarheit im Einsatz - Von der Lage zum Auftrag](https://demo.fuks.app/)
-
+* [THW-Tools](https://thw-tools.de/)
+  * Ausbildungs-Quiz
+    * [Grundausbildung-Quiz](https://thw-tools.de/quiz/ga/listing/)
+    * [Sprechfunk-Quiz](https://thw-tools.de/quiz/radio/listing/)
+    * [Atemschutz-Quiz](https://thw-tools.de/quiz/agt/listing/)
+    * [CBRN-Quiz](https://thw-tools.de/quiz/cbrn/listing/)
+  * Tools
+    * [THW Funkrufnamen](https://thw-tools.de/funkrufnamen/)
+    * [Bekleidungsrechner](https://thw-tools.de/clothing/)
+    * [Finnentest](https://finnentest.thw-tools.de/)
+    * [Elektro Spannungsfall](https://elektro.thw-tools.de/)
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
 * [Hochwasserzentrale](www.hochwasserzentralen.de)
