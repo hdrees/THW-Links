@@ -46,7 +46,7 @@
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
 * [Hochwasserzentrale](www.hochwasserzentralen.de)
 * [Hochwasserzentrale (mobil)](https://www.mhwz.de/)
-* [THW-Pegel](https://thw-pegel.de/)
+* [THW-Pegel](https://thw-pegel.de/) / [Karte](https://thw-pegel.de/pegelkarte.php)
 * [Hochwassergefahren- und Hochwasserrisikokarten in Deutschland](https://geoportal.bafg.de/karten/HWRM_Aktuell/?tabs=on#)
 * [Hochwasserkarten.NRW](https://www.hochwasserkarten.nrw.de/)
 * [H₂OCH WASSER APP für's Haus | Überflutungsschutz NRW](https://www.hochwasser-app.nrw/check)
