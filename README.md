@@ -21,7 +21,7 @@
 
 ## THW-Ausbildung
 * [THW-Theorieprüfung](https://www.thw-theorie.de/)
-* [THW-Theorieprüfung-App](http://rwolke.github.io/thw-theorie/)
+* [THW-Theorieprüfung-App](https://praktii.github.io/thw-theorie/)
 * [THW-Trainer - Kostenlos THW Theorie üben ](https://thw-trainer.de/)
 * [Sprechfunk Übungsgenerator](https://github.com/wattnpapa/sprechfunk-uebung)
 * [OSI26 - das Live-Online-Event](https://thw-unterweisung.de/)
