@@ -52,6 +52,7 @@
 * [Hochwasserkarten.NRW](https://www.hochwasserkarten.nrw.de/)
 * [H₂OCH WASSER APP für's Haus | Überflutungsschutz NRW](https://www.hochwasser-app.nrw/check)
 * [Deich-Verteidigung](https://deich-verteidigung.de/)
+* [Starkregengefahrenkarte](https://starkgegenstarkregen.de/starkregenkarte/)
 
 ## taktische Zeichen
 * [Flyer des BBK](https://lernplattform-babz-bund.de/ilias.php?baseClass=ilrepositorygui&ref_id=109540)
