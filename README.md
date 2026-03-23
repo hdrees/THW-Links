@@ -42,6 +42,7 @@
     * [Bekleidungsrechner](https://thw-tools.de/clothing/)
     * [Finnentest](https://finnentest.thw-tools.de/)
     * [Elektro Spannungsfall](https://elektro.thw-tools.de/)
+* [HERA dem Helferverwaltungssystem für das THW](https://hera-ov.app/)
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
