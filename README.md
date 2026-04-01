@@ -129,4 +129,4 @@
 * https://github.com/lksmrl/hermine-stashcat-ps
 * https://gitlab.com/aeberhardt/stashcat-api-client
 * https://github.com/sebiw/HermineBot
-* https://gitlab.n-tools.de/Dirk/hermineConnectPHP
+* https://git.n-tools.de/do/Dirk/hermineConnectPHP
