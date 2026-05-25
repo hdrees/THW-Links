@@ -101,6 +101,7 @@
 * [Online Koordinaten Umrechner](https://thwms.de/_v2/content/koordinatenrechner3/koordinatenrechner.php)
 * [Digitaler Zwilling NRW](https://www.dz.nrw.de/?lang=de)
 * [Lagekart.info/Einsatzkarte](https://www.lagekarte.info/de/)
+* https://www.map.army/ (u.a. mit UTM-Gitter drucken)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
