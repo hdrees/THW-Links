@@ -25,6 +25,8 @@
 * [THW-Trainer - Kostenlos THW Theorie üben ](https://thw-trainer.de/)
 * [Sprechfunk Übungsgenerator](https://github.com/wattnpapa/sprechfunk-uebung)
 * [OSI26 - das Live-Online-Event](https://thw-unterweisung.de/)
+* [CBRNN-Trainer App](https://cbrn-trainer.de/)
+* [Funk- und Fahrübung Onlinegenerator](https://pq5.de/FunkUndFahr/)
 
 ## Nützliches
 * [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachzug-fuehrungkommunikation/digitalfunk)
@@ -43,6 +45,7 @@
     * [Finnentest](https://finnentest.thw-tools.de/)
     * [Elektro Spannungsfall](https://elektro.thw-tools.de/)
 * [HERA dem Helferverwaltungssystem für das THW](https://hera-ov.app/)
+* [Führungsstellen-Status-Monitor (HTML-Datei)](https://github.com/goerdy/FuehrungsstellenStatusMonitor)
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
