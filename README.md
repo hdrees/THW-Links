@@ -107,6 +107,7 @@
 * [Digitaler Zwilling NRW](https://www.dz.nrw.de/?lang=de)
 * [Lagekart.info/Einsatzkarte](https://www.lagekarte.info/de/)
 * https://www.map.army/ (u.a. mit UTM-Gitter drucken)
+* [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/geobasis-nrw/geodaten-anwendungen/krisensichere-geobasisdaten-bereitstellung-nw)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
