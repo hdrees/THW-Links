@@ -64,7 +64,6 @@
 * [taktische Zeichen als Magnet und Download](https://www.thw-magnete.de)
 * [Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken](https://github.com/jonas-koeritz/Taktische-Zeichen)
 * [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/)
-* https://next.taktische-zeichen.org/
 * [Taktische-Zeichen-drawio](https://github.com/MartinBoehmer/Taktische-Zeichen-drawio)
 * https://thw-magnete.de/
 * [Taktische Zeichen für Hilfsorganisationen als Java Bibliothek](https://github.com/liturner/Taktische-Zeichen-Java)
