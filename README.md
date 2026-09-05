@@ -46,6 +46,11 @@
     * [Elektro Spannungsfall](https://elektro.thw-tools.de/)
 * [HERA dem Helferverwaltungssystem für das THW](https://hera-ov.app/)
 * [Führungsstellen-Status-Monitor (HTML-Datei)](https://github.com/goerdy/FuehrungsstellenStatusMonitor)
+* [Taschenkarten-App TaKa](https://www.blafusel.de/computer/taka.html)
+* [THW-Projekte (GitLab)](https://gitlab.com/tast-it/thw-projekte)
+* [Einsatzleiterwiki](https://einsatzleiterwiki.de/)
+* [Lagekarte.info](https://www.lagekarte.info/de/)
+* [Digitaler Einheiten-Erfassungsbogen](https://erfassungsbogen.app/)
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
@@ -70,6 +75,7 @@
 * ["Taktische Zeichen" für Beleuchtung](https://gallery.proficad.com/schaltzeichen/hausinstallationen/leuchten)
 * [Taktische Zeichen Generator](https://gleaming-macaron-e718ad.netlify.app/)
 * [Taktische_Zeichen_Druckgenerator](https://github.com/Hopeman876/Taktische_Zeichen_Druckgenerator)
+* [aktische Zeichen Vorlagen Generator von Tristan Lins.](https://taktische-zeichen.org/)
 
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
@@ -107,6 +113,9 @@
 * [Lagekart.info/Einsatzkarte](https://www.lagekarte.info/de/)
 * https://www.map.army/ (u.a. mit UTM-Gitter drucken)
 * [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/geobasis-nrw/geodaten-anwendungen/krisensichere-geobasisdaten-bereitstellung-nw)
+* [Karte der THW-Ortsverbände](https://thw.blafusel.de/)
+* [Geodatenzentrum des BKG](https://gdz.bkg.bund.de/index.php/default/)
+* [Länderübergreifendes Hochwasser Portal](https://www.hochwasserzentralen.de/)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
@@ -116,8 +125,8 @@
 * [Online-Abstimmung](https://votesup.eu)
 * [Sichere Videokonferenz](https://sichere-videokonferenz.de/)
 
-  ## Software
-  * [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
+## Software
+* [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
 
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
