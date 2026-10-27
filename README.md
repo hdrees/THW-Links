@@ -102,7 +102,6 @@
 * [Online Koordinaten Umrechner](https://www.koordinaten-umrechner.de/)
 * [Online Koordinaten Umrechner](https://thwms.de/_v2/content/koordinatenrechner3/koordinatenrechner.php)
 * [Digitaler Zwilling NRW](https://www.dz.nrw.de/?lang=de)
-* [Lagekart.info/Einsatzkarte](https://www.lagekarte.info/de/)
 * https://www.map.army/ (u.a. mit UTM-Gitter drucken)
 * [Karte der THW-Ortsverbände auf OpenStreetMap](https://thw.blafusel.de/)
 * [Geodatenzentrum des BKG](https://gdz.bkg.bund.de/index.php/default/)
