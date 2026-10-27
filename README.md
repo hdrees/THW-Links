@@ -74,7 +74,6 @@
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
 * [Geoportal NRW](https://www.geoportal.nrw/)
-* [Deutschland-Karten von Bundesamt für Kartographie und Geodäsie](https://map-on-demand.bkg.bund.de/mod_od/)
 * https://www.flurkarte-nrw.de/
 * https://geoservice.kreis-unna.de/
 * https://www.uvo.nrw.de/uvo.html?lang=de
