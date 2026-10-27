@@ -12,10 +12,8 @@
 * [THW.de](http://www.thw.de)
 * [THW-Ausbildungszentrum](https://www.thw-ausbildungszentrum.de/)
 * [THW-Extranet](https://extranet.thw.de)
-* [THW-Ilias](https://extranet.thw.de/SiteGlobals/Functions/Forum/THW-Extranet/DE/SSO_Redirect.html?type=ilias)
 * [Hermine Messanger](https://app.thw-messenger.de)
 * [THW-Forschung](http://www.thw-forschung.de)
-* [THW Ausbildung gestalten](https://thw-ausbildung-gestalten.de/)
 * https://gitlab.opencode.de/technisches-hilfswerk
 * [FTS - Field Technology Service](https://www.fts-hub.org/)
 
@@ -29,8 +27,6 @@
 * [Funk- und Fahrübung Onlinegenerator](https://pq5.de/FunkUndFahr/)
 
 ## Nützliches
-* [Digitalfunk (Seite des THW OV Dortmund)](https://www.thw-dortmund.de/einheiten-und-technik/fachzug-fuehrungkommunikation/digitalfunk)
-* [THW-Linkverzeichnis auf GitLab](https://gitlab.com/tast-it/thw-projekte)
 * [THWiki](https://thwiki.org/)
 * [FuKS - Klarheit im Einsatz - Von der Lage zum Auftrag](https://demo.fuks.app/)
 * [THW-Tools](https://thw-tools.de/)
@@ -62,20 +58,18 @@
 * [H₂OCH WASSER APP für's Haus | Überflutungsschutz NRW](https://www.hochwasser-app.nrw/check)
 * [Deich-Verteidigung](https://deich-verteidigung.de/)
 * [Starkregengefahrenkarte](https://starkgegenstarkregen.de/starkregenkarte/)
-* [Hochwasser App fürs Haus](https://www.hochwasser-app.nrw/check)
 
 ## taktische Zeichen
 * [Flyer des BBK](https://lernplattform-babz-bund.de/ilias.php?baseClass=ilrepositorygui&ref_id=109540)
 * [taktische Zeichen als Magnet und Download](https://www.thw-magnete.de)
 * [Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken](https://github.com/jonas-koeritz/Taktische-Zeichen)
-* [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/)
+* [Taktische Zeichen Vorlagen Generator von Tristan Lins](https://taktische-zeichen.org/)
 * [Taktische-Zeichen-drawio](https://github.com/MartinBoehmer/Taktische-Zeichen-drawio)
 * https://thw-magnete.de/
 * [Taktische Zeichen für Hilfsorganisationen als Java Bibliothek](https://github.com/liturner/Taktische-Zeichen-Java)
 * ["Taktische Zeichen" für Beleuchtung](https://gallery.proficad.com/schaltzeichen/hausinstallationen/leuchten)
 * [Taktische Zeichen Generator](https://gleaming-macaron-e718ad.netlify.app/)
 * [Taktische_Zeichen_Druckgenerator](https://github.com/Hopeman876/Taktische_Zeichen_Druckgenerator)
-* [aktische Zeichen Vorlagen Generator von Tristan Lins.](https://taktische-zeichen.org/)
 
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
@@ -102,7 +96,6 @@
 * https://open.nrw/
 * [KWF-Rettungspunkte](https://lizmap.rettungspunkte-forst.de/index.php)
 * [Einsatzkarte](https://einsatzkarte.de/)
-* [Lagekarte](https://www.lagekarte.info/)
 * [Mobile Lagekarte](https://www.mobile-lagekarte.de/)
 * [Lagekarte-Online](https://lagekarte.online/#/)
 * [Geodaten-Sammlung](https://gitlab.com/hburkamp/mhp_tools/geodaten)
@@ -112,14 +105,13 @@
 * [Digitaler Zwilling NRW](https://www.dz.nrw.de/?lang=de)
 * [Lagekart.info/Einsatzkarte](https://www.lagekarte.info/de/)
 * https://www.map.army/ (u.a. mit UTM-Gitter drucken)
-* [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/geobasis-nrw/geodaten-anwendungen/krisensichere-geobasisdaten-bereitstellung-nw)
-* [Karte der THW-Ortsverbände](https://thw.blafusel.de/)
+* [Karte der THW-Ortsverbände auf OpenStreetMap](https://thw.blafusel.de/)
 * [Geodatenzentrum des BKG](https://gdz.bkg.bund.de/index.php/default/)
 * [Länderübergreifendes Hochwasser Portal](https://www.hochwasserzentralen.de/)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
-* [Interaktives Whiteboard](https://openboard.ch/index.de.html)
+* [Interaktives Whiteboard](https://openboard.ch)
 * [Audience Response Systems ARSnova](https://arsnova.eu)
 * [PINGO – Peer Instruction](https://trypingo.com/de/)
 * [Online-Abstimmung](https://votesup.eu)
@@ -133,7 +125,6 @@
 * [THW-Dienststellen als JSON](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen)
 * [THW-Dienststellen als JSON extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
-* [THW-Dienststellen auf OpenStreetMap](https://thw.blafusel.de/)
 * [synchronisierung zwischen Stein.APP und Divera 24/7](https://github.com/oscarminus/steinapi/)
 * [Dokumentation stein.app](https://stein.app/api/api/doc/intro)
 * [THW Inventory](https://github.com/mziech/thw-inventory)
