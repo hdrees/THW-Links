@@ -115,8 +115,9 @@
 * [Online-Abstimmung](https://votesup.eu)
 * [Sichere Videokonferenz](https://sichere-videokonferenz.de/)
 
-## Software
+## Software und KI
 * [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
+* [THW Review Kit](https://github.com/wattnpapa/thw-review-kit)
 
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
