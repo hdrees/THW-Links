@@ -118,6 +118,9 @@
 ## Software
 * [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
 * [Einsatzauftrag lokal als PDF erstellen](https://einsatzauftrag.app/)
+* [EGS Visualisierung](https://github.com/rwolke/thw-egs)
+* [EGS Betrachter](http://visualisierung.thw-egs.de/)
+* [EGS-Konstruktionen räumlich verstehen](https://egs3d.de/)
 
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
