@@ -70,6 +70,7 @@
 * ["Taktische Zeichen" für Beleuchtung](https://gallery.proficad.com/schaltzeichen/hausinstallationen/leuchten)
 * [Taktische Zeichen Generator](https://gleaming-macaron-e718ad.netlify.app/)
 * [Taktische_Zeichen_Druckgenerator](https://github.com/Hopeman876/Taktische_Zeichen_Druckgenerator)
+* [Taktische Zeichen Generator](https://gleaming-macaron-e718ad.netlify.app/)
 
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
@@ -118,9 +119,12 @@
 ## Software
 * [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
 * [Einsatzauftrag lokal als PDF erstellen](https://einsatzauftrag.app/)
+
+## EGS
 * [EGS Visualisierung](https://github.com/rwolke/thw-egs)
 * [EGS Betrachter](http://visualisierung.thw-egs.de/)
 * [EGS-Konstruktionen räumlich verstehen](https://egs3d.de/)
+* [EGS-Modelle im 3D-Drucker drucken](https://github.com/alfdecapo/EGS_Modell)
 
 ## Sonstiges
 * [DFN-Terminplaner (Doodle-Alternative)](https://www.dfn.de/dienstleistungen/dfnterminplaner/)
