@@ -47,6 +47,7 @@
 * [Einsatzleiterwiki](https://einsatzleiterwiki.de/)
 * [Lagekarte.info](https://www.lagekarte.info/de/)
 * [Digitaler Einheiten-Erfassungsbogen](https://erfassungsbogen.app/)
+* [Literaturdatenbank für Bevölkerungsschutz](https://fis.bbk.bund.de)
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
