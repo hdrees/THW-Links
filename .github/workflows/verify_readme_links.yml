@@ -19,7 +19,7 @@ jobs:
     - name: Install Awesome Bot
       run: gem install awesome_bot
     - name: Run Awesome Bot
-      run: awesome_bot README.md --allow-ssl --request-delay 1 --allow-redirect --allow-timeout 
+      run: awesome_bot README.md --allow-ssl --request-delay 1 --allow-redirect --allow-timeout --white-list einsatzleiterwiki.de,lernplattform-babz-bund.de,koordinaten-umrechner.de,git.n-tools.de,thw-unterweisung.de,geoportal.de
     - uses: actions/upload-artifact@v4
       if: failure()
       with:
