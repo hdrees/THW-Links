@@ -1,0 +1,11 @@
+# Hält die GitHub Actions in .github/workflows aktuell. Alle Updates kommen gebündelt in einem
+# Pull-Request.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      actions:
+        patterns: ['*']
