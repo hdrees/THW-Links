@@ -116,8 +116,9 @@
 * [Online-Abstimmung](https://votesup.eu)
 * [Sichere Videokonferenz](https://sichere-videokonferenz.de/)
 
-## Software
+## Software und KI
 * [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
+* [THW Review Kit](https://github.com/wattnpapa/thw-review-kit)
 * [Einsatzauftrag lokal als PDF erstellen](https://einsatzauftrag.app/)
 * [EGS Visualisierung](https://github.com/rwolke/thw-egs)
 * [EGS Betrachter](http://visualisierung.thw-egs.de/)
