@@ -5,31 +5,35 @@
 - [THW Leitung](#thw-leitung)
 - [THW-Ausbildung](#thw-ausbildung)
 - [Nützliches](#nützliches)
+- [Hochwasser](#hochwasser)
 - [Taktische Zeichen](#taktische-zeichen)
+- [Geodaten, Karten und Luftbilder](#geodaten-karten-und-luftbilder)
 - [Online-Ausbildung](#online-ausbildung)
+- [Software und KI](#software-und-ki)
+- [Sonstiges](#sonstiges)
+- [Hermine API](#hermine-api)
 
 ## THW Leitung
 * [THW.de](http://www.thw.de)
 * [THW-Ausbildungszentrum](https://www.thw-ausbildungszentrum.de/)
 * [THW-Extranet](https://extranet.thw.de)
-* [Hermine Messanger](https://app.thw-messenger.de)
+* [Hermine Messenger](https://app.thw-messenger.de)
 * [THW-Forschung](http://www.thw-forschung.de)
-* https://gitlab.opencode.de/technisches-hilfswerk
+* [THW auf openCode](https://gitlab.opencode.de/technisches-hilfswerk)
 * [FTS - Field Technology Service](https://www.fts-hub.org/)
 
 ## THW-Ausbildung
 * [THW-Theorieprüfung](https://www.thw-theorie.de/)
 * [THW-Theorieprüfung-App](https://praktii.github.io/thw-theorie/)
-* [THW-Trainer - Kostenlos THW Theorie üben ](https://thw-trainer.de/)
+* [THW-Trainer - Kostenlos THW Theorie üben](https://thw-trainer.de/)
 * [Sprechfunk Übungsgenerator](https://github.com/wattnpapa/sprechfunk-uebung)
 * [OSI26 - das Live-Online-Event](https://thw-unterweisung.de/)
-* [CBRNN-Trainer App](https://cbrn-trainer.de/)
+* [CBRN-Trainer App](https://cbrn-trainer.de/)
 * [Funk- und Fahrübung Onlinegenerator](https://pq5.de/FunkUndFahr/)
 * [Kartenkunde für Einsatz und Ausbildung](https://kartenkunde.app/)
 
 ## Nützliches
 * [THWiki](https://thwiki.org/)
-* [FuKS - Klarheit im Einsatz - Von der Lage zum Auftrag](https://demo.fuks.app/)
 * [THW-Tools](https://thw-tools.de/)
   * Ausbildungs-Quiz
     * [Grundausbildung-Quiz](https://thw-tools.de/quiz/ga/listing/)
@@ -41,7 +45,7 @@
     * [Bekleidungsrechner](https://thw-tools.de/clothing/)
     * [Finnentest](https://finnentest.thw-tools.de/)
     * [Elektro Spannungsfall](https://elektro.thw-tools.de/)
-* [HERA dem Helferverwaltungssystem für das THW](https://hera-ov.app/)
+* [HERA - Helferverwaltungssystem für das THW](https://hera-ov.app/)
 * [Führungsstellen-Status-Monitor (HTML-Datei)](https://github.com/goerdy/FuehrungsstellenStatusMonitor)
 * [Taschenkarten-App TaKa](https://www.blafusel.de/computer/taka.html)
 * [THW-Projekte (GitLab)](https://gitlab.com/tast-it/thw-projekte)
@@ -52,8 +56,8 @@
 
 ## Hochwasser
 * [Digitaler Hochwasseratlas](https://gdz.bkg.bund.de/index.php/default/solr/search/index/?q=Der+digitale+Hochwasseratlas)
-* [Hochwasserzentrale](www.hochwasserzentralen.de)
-* [Hochwasserzentrale (mobil)](https://www.mhwz.de/)
+* [Länderübergreifendes Hochwasserportal](https://www.hochwasserzentralen.de/)
+* [Länderübergreifendes Hochwasserportal (mobil)](https://www.mhwz.de/)
 * [THW-Pegel](https://thw-pegel.de/) / [Karte](https://thw-pegel.de/pegelkarte.php)
 * [Hochwassergefahren- und Hochwasserrisikokarten in Deutschland](https://geoportal.bafg.de/karten/HWRM_Aktuell/?tabs=on#)
 * [Hochwasserkarten.NRW](https://www.hochwasserkarten.nrw.de/)
@@ -67,7 +71,6 @@
 * [Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken](https://github.com/jonas-koeritz/Taktische-Zeichen)
 * [Taktische Zeichen Vorlagen Generator von Tristan Lins](https://taktische-zeichen.org/)
 * [Taktische-Zeichen-drawio](https://github.com/MartinBoehmer/Taktische-Zeichen-drawio)
-* https://thw-magnete.de/
 * [Taktische Zeichen für Hilfsorganisationen als Java Bibliothek](https://github.com/liturner/Taktische-Zeichen-Java)
 * ["Taktische Zeichen" für Beleuchtung](https://gallery.proficad.com/schaltzeichen/hausinstallationen/leuchten)
 * [Taktische Zeichen Generator](https://gleaming-macaron-e718ad.netlify.app/)
@@ -76,25 +79,23 @@
 ## Geodaten, Karten und Luftbilder
 * [TIM-online](https://www.tim-online.nrw.de/tim-online2/)
 * [Geoportal NRW](https://www.geoportal.nrw/)
-* https://www.flurkarte-nrw.de/
-* https://geoservice.kreis-unna.de/
-* https://www.uvo.nrw.de/uvo.html?lang=de
-* https://maps.regioplaner.de/
-* https://www.geoportal.de
-* http://tools.geofabrik.de/
+* [Flurkarte NRW](https://www.flurkarte-nrw.de/)
+* [GeoService Kreis Unna](https://geoservice.kreis-unna.de/)
+* [Regioplaner-Karten](https://maps.regioplaner.de/)
+* [Geoportal.de](https://www.geoportal.de)
+* [Geofabrik Tools](http://tools.geofabrik.de/)
 * [NRW Geodaten als PDF-Download](https://www.opengeodata.nrw.de/produkte/geobasis/tk/)
 * [python-Downloader für NRW-Geodaten](https://github.com/dmth/top_downloader)
 * [NRW Umweltdaten vor Ort](https://www.uvo.nrw.de/)
 * [ELWAS Web NRW](https://www.elwasweb.nrw.de)
-* https://www.opengeodata.nrw.de/produkte/geobasis/
+* [NRW Geobasisdaten (Open Data)](https://www.opengeodata.nrw.de/produkte/geobasis/)
 * [Fachinformationssystem Klimaanpassung](http://www.klimaanpassung-karte.nrw.de/)
 * [Die Region auf Karte](http://www.auf-karte.de/start.html)
-* https://luftbilder.geoportal.ruhr/
-* https://www.3d.ruhr/
+* [Luftbilder Regionalverband Ruhr](https://luftbilder.geoportal.ruhr/)
+* [3D-Karte Ruhrgebiet](https://www.3d.ruhr/)
 * [Krisensichere Geobasisdaten-Bereitstellung NW](https://www.bezreg-koeln.nrw.de/geobasis-nrw/geodaten-anwendungen/krisensichere-geobasisdaten-bereitstellung-nw)
-* http://www.geoservice.kreis-unna.de/
-* https://kreis-unna.virtualcitymap.de/
-* https://open.nrw/
+* [3D-Karte Kreis Unna](https://kreis-unna.virtualcitymap.de/)
+* [Open.NRW - Open-Government-Portal](https://open.nrw/)
 * [KWF-Rettungspunkte](https://lizmap.rettungspunkte-forst.de/index.php)
 * [Einsatzkarte](https://einsatzkarte.de/)
 * [Mobile Lagekarte](https://www.mobile-lagekarte.de/)
@@ -102,12 +103,11 @@
 * [Geodaten-Sammlung](https://gitlab.com/hburkamp/mhp_tools/geodaten)
 * [Pegelonline](https://pegelonline.wsv.de/)
 * [Online Koordinaten Umrechner](https://www.koordinaten-umrechner.de/)
-* [Online Koordinaten Umrechner](https://thwms.de/_v2/content/koordinatenrechner3/koordinatenrechner.php)
+* [Koordinatenrechner (thwms.de)](https://thwms.de/_v2/content/koordinatenrechner3/koordinatenrechner.php)
 * [Digitaler Zwilling NRW](https://www.dz.nrw.de/?lang=de)
-* https://www.map.army/ (u.a. mit UTM-Gitter drucken)
+* [map.army](https://www.map.army/) (u.a. mit UTM-Gitter drucken)
 * [Karte der THW-Ortsverbände auf OpenStreetMap](https://thw.blafusel.de/)
 * [Geodatenzentrum des BKG](https://gdz.bkg.bund.de/index.php/default/)
-* [Länderübergreifendes Hochwasser Portal](https://www.hochwasserzentralen.de/)
 
 ## Online-Ausbildung
 * ['Simple Online Whiteboard' (Browser, *jeder* kann mitzeichnen)](https://r9.whiteboardfox.com/)
@@ -118,7 +118,7 @@
 * [Sichere Videokonferenz](https://sichere-videokonferenz.de/)
 
 ## Software und KI
-* [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/)
+* [FuKS (Führungs- und Koordinierungssystem)](https://fuks.app/) ([Demo](https://demo.fuks.app/))
 * [THW Review Kit](https://github.com/wattnpapa/thw-review-kit)
 * [Einsatzauftrag lokal als PDF erstellen](https://einsatzauftrag.app/)
 * [EGS Visualisierung](https://github.com/rwolke/thw-egs)
@@ -130,7 +130,7 @@
 * [THW-Dienststellen als JSON](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen)
 * [THW-Dienststellen als JSON extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended)
 * [THW Adressbuch](https://thw-adressbuch.meldestein.de/#/)
-* [synchronisierung zwischen Stein.APP und Divera 24/7](https://github.com/oscarminus/steinapi/)
+* [Synchronisierung zwischen Stein.APP und Divera 24/7](https://github.com/oscarminus/steinapi/)
 * [Dokumentation stein.app](https://stein.app/api/api/doc/intro)
 * [THW Inventory](https://github.com/mziech/thw-inventory)
 * [Rechenscheibe Deicherhöhung](https://webapps.iwa.de/preview/?id=35bea0c68e474904352b539d751d2483689edade9a25e&lang=de)
@@ -138,7 +138,7 @@
 * [Spiel "Trainings-/Übungslage - Brand Newateak"](https://shop.zfbs.info/products/trainings-ubungslage-brand-newateak?variant=55154459443525)
 
 ## Hermine API
-* https://github.com/lksmrl/hermine-stashcat-ps
-* https://gitlab.com/aeberhardt/stashcat-api-client
-* https://github.com/sebiw/HermineBot
-* https://git.n-tools.de/do/Dirk/hermineConnectPHP
+* [hermine-stashcat-ps (PowerShell)](https://github.com/lksmrl/hermine-stashcat-ps)
+* [stashcat-api-client](https://gitlab.com/aeberhardt/stashcat-api-client)
+* [HermineBot - Nachrichten per API an Hermine-Channel senden](https://github.com/sebiw/HermineBot)
+* [hermineConnectPHP (PHP)](https://git.n-tools.de/do/Dirk/hermineConnectPHP)
