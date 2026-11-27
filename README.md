@@ -25,6 +25,7 @@
 * [OSI26 - das Live-Online-Event](https://thw-unterweisung.de/)
 * [CBRNN-Trainer App](https://cbrn-trainer.de/)
 * [Funk- und Fahrübung Onlinegenerator](https://pq5.de/FunkUndFahr/)
+* [Kartenkunde für Einsatz und Ausbildung](https://kartenkunde.app/)
 
 ## Nützliches
 * [THWiki](https://thwiki.org/)
